@@ -1,0 +1,17 @@
+body {
+    background-color: #dc143c;
+}
+
+small {
+    white-space: nowrap;
+}
+
+.box-area {
+    width: 59rem;
+}
+
+.right-box {
+    padding: 40px 30px 40px 40px;
+}
+
+
